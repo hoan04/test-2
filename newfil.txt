@@ -1,6 +1,2 @@
 Hoan Nguyen deptrai
-<<<<<<< HEAD
 Pro no2
-=======
-Pro no3
->>>>>>> 8f1cfa6eb96b12ffe279b07615ef572c1f967b00
